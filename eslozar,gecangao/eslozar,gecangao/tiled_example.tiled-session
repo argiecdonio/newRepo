@@ -1,0 +1,34 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "untitled.tmx": {
+            "scale": 0.9935416666666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.1006500314531,
+                "y": 320.0671000209687
+            }
+        },
+        "untitled.tmx#pililian nga mga tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/HaveHere/Desktop/PYGAME LEC/bsit 2-4",
+    "last.imagePath": "C:/Users/HaveHere/Desktop/PYGAME LEC/bsit 2-4",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "untitled.tmx"
+    ],
+    "project": "tiled_example.tiled-project",
+    "recentFiles": [
+        "untitled.tmx"
+    ],
+    "tileset.embedInMap": true
+}
